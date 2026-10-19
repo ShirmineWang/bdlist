@@ -1,4 +1,6 @@
 Plaud
+PLAUD.AI
+PLAUD AI
 MiroMind
 Ropedia
 OneByZero
@@ -220,3 +222,8 @@ Mediacorp
 Cyber Security Agency of Singapore
 DSTA
 IMDA
+GovTech Singapore
+Home Team Science and Technology Agency
+GIC
+Temasek
+SGX Group
